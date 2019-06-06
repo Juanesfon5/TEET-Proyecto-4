@@ -10,10 +10,16 @@ Se requiere el desarrollo de una aplicación de registro de posición (tracking-
 #### Pruebas (DCA IP Privada y Docker con dominio correspondiente)
 #### Produccion (Maquina CentOs7 de AWS)
 #### Implemetacion
-#### 1. Log-in y Sign-in
+
+### 0. Requisitos
+##### Docker
+##### Docker-compose
+##### Node
+
+### 1. Log-in y Sign-in
 Para la parte de autenticacion del usuario se uso Google Firebase ya que era la manera mas rapida y facil de conectar al framework del proyecto (React.js)
 
-##### 2. Mapa y Tracking
+### 2. Mapa y Tracking
 Para la parte del tracking se uso una API de Google Maps y unas funciones en el framework para que usara la localizacion actual del usuario, esta se actualiza cada 3 segundos y al darle el boton Empezar, se imprimira la localizacion en la pagina hasta que el usuario le de en el boton Parar
 
 ### 3. Configuración de Firebase
@@ -56,3 +62,7 @@ Aqui, se puede seguir esta guía para terminar la configuración:
 https://cloud.google.com/kubernetes-engine/docs/quickstart
 
 ![Input](misc/unknown10.jpeg)
+
+### 5. Correr la app
+
+Para construir la aplicación despues de clonar el repositorio, se usa el comando ```` $ docker-compose up --build````
