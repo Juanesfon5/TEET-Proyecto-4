@@ -25,14 +25,14 @@ Para la parte del tracking se uso una API de Google Maps y unas funciones en el 
 
 ![Input](misc/unknown4.png)
 
-![Input](misc/unknown5.png)
+![Input](misc/unknown5.jpeg)
 
-![Input](misc/unknown6.png)
+![Input](misc/unknown6.jpeg)
 
-![Input](misc/unknown7.png)
+![Input](misc/unknown7.jpeg)
 
-![Input](misc/unknown8.png)
+![Input](misc/unknown8.jpeg)
 
-![Input](misc/unknown9.png)
+![Input](misc/unknown9.jpeg)
 
-![Input](misc/unknown10.png)
+![Input](misc/unknown10.jpeg)
