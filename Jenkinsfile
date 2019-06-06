@@ -9,10 +9,6 @@ pipeline {
     stage('Change Dir') {
       steps {
         dir(path: './teetproyecto4/')
-      }
-    }
-    stage('Build ') {
-      steps {
         sh 'npm install -g'
       }
     }
