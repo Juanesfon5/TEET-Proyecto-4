@@ -8,8 +8,8 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                sh "sudo apt-get update"
-                sh "sudo apt-get install curl"
+                sh "apt-get update"
+                sh "apt-get install curl"
                 sh "curl -L https://github.com/docker/compose/releases/download/1.8.0/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose"
                 sh 'docker-compose up --build' 
             }
