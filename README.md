@@ -19,20 +19,20 @@ Para la parte del tracking se uso una API de Google Maps y unas funciones en el 
 ### 3. Configuración de Kubernetes
 ![Input](misc/unknown.png)
 
-![Input](misc/unknown \(2).png)
+![Input](misc/unknown2.png)
 
-![Input](misc/unknown (3).png)
+![Input](misc/unknown3.png)
 
-![Input](misc/unknown (4).png)
+![Input](misc/unknown4.png)
 
-![Input](misc/WhatsApp Image 2019-06-06 at 5.01.05 PM.jpeg)
+![Input](misc/unknown5.png)
 
-![Input](misc/WhatsApp Image 2019-06-06 at 5.03.22 PM.jpeg)
+![Input](misc/unknown6.png)
 
-![Input](misc/WhatsApp Image 2019-06-06 at 5.08.36 PM.jpeg)
+![Input](misc/unknown7.png)
 
-![Input](misc/WhatsApp Image 2019-06-06 at 5.09.16 PM.jpeg)
+![Input](misc/unknown8.png)
 
-![Input](misc/WhatsApp Image 2019-06-06 at 5.10.00 PM.jpeg)
+![Input](misc/unknown9.png)
 
-![Input](misc/WhatsApp Image 2019-06-06 at 5.10.49 PM.jpeg)
+![Input](misc/unknown10.png)
