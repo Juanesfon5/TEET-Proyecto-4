@@ -19,7 +19,7 @@ Para la parte del tracking se uso una API de Google Maps y unas funciones en el 
 ### 3. Configuración de Kubernetes
 ![Input](misc/unknown.png)
 
-![Input](misc/unknown (2).png)
+![Input](misc/unknown \(2).png)
 
 ![Input](misc/unknown (3).png)
 
